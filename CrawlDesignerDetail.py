@@ -10,9 +10,7 @@
 #pip install -U requests
 #pip install -U beautifulsoup4
 
-#2.make sure you have "query_result.csv" (which contains column "uname" and "url") inside directory. If no, please do the following
-#Go to Gdrive -->RMBI4980 --> Kickstarter --> new --> "Kickstarter code.sql"; run it inside MySQL/Sequel Pro
-#Type query: select id,uname,name,url from top100; run it and export as "query_result.csv"
+#2.make sure you have "query_result.csv" (which contains column "uname" and "url") inside directory.
 
 ###Instruction
 #This coding is used to crawl web data of all selected Kickstarter products from Kickstarter :
